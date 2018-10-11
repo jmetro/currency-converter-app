@@ -1,0 +1,4 @@
+.input-group .basic-multi-select .select__control{
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
