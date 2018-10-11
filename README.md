@@ -7,6 +7,6 @@
 - $ `npm run test` to run test scripts
 
 ## Test scripts coverage
-- 100%
+- Test scripts under developed
 
 ## Currently being served in: https://joms-currency-app.herokuapp.com/
